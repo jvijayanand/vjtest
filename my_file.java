@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.unifirst.platform.punchout.service;
 
@@ -13,8 +13,8 @@ import com.unifirst.platform.punchout.message.transformed.posr.PunchInSetupRespo
 
 
 /**
- * @author atifsiddiqui
- * 
+ * @author vijayanand Jambulingam
+ *
  */
 public interface TransformationService
 {
